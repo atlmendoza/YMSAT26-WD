@@ -84,7 +84,7 @@ links[7]={
 	stat: true // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
 }
 links[8]={
-	section:"",
+	section:"9Li",
 	title:"CHEMVIS",
 	desc:"See chemistry in action with Chemivis, where 3D models, interactive pages, and fun games bring concepts to life!",
 	url:"https://drijbl.github.io/WDProjLithiumGabrielTumbaga/",
@@ -93,12 +93,12 @@ links[8]={
 	stat: true  // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
 }
 links[9]={
-	section:"",
-	title:"",
-	desc:"",
-	url:"",
+	section:"9Li",
+	title:"Valorant: Beyond the Crosshair",
+	desc:"Valorant: Beyond the Crosshair is an interactive guide designed to help players of all skill levels improve their gameplay. It offers detailed insights into agents, maps, weapons, and strategies — everything a player needs to understand the game in depth.",
+	url:"https://nikkodizon.github.io/WDProjLithiumDIZONVIBAL/",
 	icon:"",
-	by:"",
+	by:"Dizon&Vibal",
 	stat: false // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
 }
 
