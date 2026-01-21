@@ -34,7 +34,7 @@ links[2]={
 	title:"Icons of Ghibli",
 	desc:"Whispers of Ghibli is a very emotional and sincere trip to the dream-like realm of the Studio Ghibli—where art, imagination, and feelings come together to create storytelling that will never be forgotten.",
 	url:"https://aravilalado.github.io/WDProjBeMacatangayVillados/public/homepage.html",
-	icon:"b1929.png",
+	icon:"be1929.png",
 	by:"",
 	stat:false
 }
@@ -43,7 +43,7 @@ links[3]={
 	title:"MineMaster",
 	desc:"Minemaster is a collection of different guides designed to give inspiration to and improve your builds in the game Minecraft.",
 	url:"https://frncjcnt.github.io/WDProjCesiumJacintoMapalo/index.html",
-	icon:"Cs1419.png"
+	icon:"Cs1419.png",
 	by:"Mateo&Mapalo",
 	stat:false
 }
@@ -57,13 +57,22 @@ links[4]={
 	stat:true
 }
 links[5]={
-	section:"",
-	title:"",
+	section:"9Cs",
+	title:"Unstable Universe: Given one Chance, What Life will You Choose to Live?",
+	desc:"This website is about a Minecraft server called the Unstable SMP that aims to tell amazing stories for its viewers.",
+	url:"https://flarepia.github.io/3QPortifolioCSTonido/index.html",
+	icon:"cs1730.png",
+	by:"tonido",
+	stat: false
+}
+links[6]={
+	section:"9Cs",
+	title:"Clemmy OS Login",
 	desc:"",
-	url:"",
-	icon:"",
-	by:"",
-	stat:
+	url:"https://alena-harriett.github.io/WDProjCesiumMembradoReyes/",
+	icon:"cs2128.webp",
+	by:"Membrado&Reyes",
+	stat: true // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
 }
 
 		
@@ -88,18 +97,17 @@ function dispProj(){
   // construct content of the body
 	var tobeDisp = ""
 	for (let i=0;i<links.length;i++) {
-		if (links[i] || links[i].stat ) { 
-			tobeDisp +=	 
-				'<div class="gallery">'+
-				'<a target="_blank" href="' + links[genNum[i]].url +'">'+
-				'<div> <img src="img\\'+links[genNum[i]].icon +'" /></div>'+
-				'<div class="desc"><span>'+links[genNum[i]].title+'</span>'+
-							'<p>'+links[genNum[i]].desc+'</p></div>'+
-				'</a></div>'
-		}
+		tobeDisp +=	 
+		'<div class="gallery">'+
+		'<a target="_blank" href="' + links[genNum[i]].url +'">'+
+		'<div> <img src="img\\'+links[genNum[i]].icon +'" /></div>'+
+		'<div class="desc"><span>'+links[genNum[i]].title+'</span>'+
+					'<p>'+links[genNum[i]].desc+'</p></div>'+
+		'</a></div>'
+		
 	}
 		
-document.getElementById("pHolder").innerHTML = tobeDisp;
-	let myVar = setTimeout(dispProj, 20000);
+	document.getElementById("pHolder").innerHTML = tobeDisp;
+	let myVar = setTimeout(dispProj, 50000);
 }
 	
