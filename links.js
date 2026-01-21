@@ -74,9 +74,34 @@ links[6]={
 	by:"Membrado&Reyes",
 	stat: true // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
 }
+links[7]={
+	section:"9Li",
+	title:"Martial Arts and the World",
+	desc:"Martial Arts and The World is an interactive educational website showcasing the history, techniques, and philosophy of five major martial arts disciplines: Karate, Taekwondo, Judo, Brazilian Jiu-Jitsu, and Muay Thai.",
+	url:"hhttps://davidhermosi.github.io/WDProjLiCristobalHermoso/",
+	icon:"licrishermo.png",
+	by:"Cristobal&Hermoso",
+	stat: true // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
+}
+links[8]={
+	section:"9Li",
+	title:"CHEMVIS",
+	desc:"See chemistry in action with Chemivis, where 3D models, interactive pages, and fun games bring concepts to life!",
+	url:"https://drijbl.github.io/WDProjLithiumGabrielTumbaga/",
+	icon:"CHEMIVIS.png",
+	by:"Gabriel&Tumbaga",
+	stat: true  // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
+}
+links[9]={
+	section:"9Li",
+	title:"Valorant: Beyond the Crosshair",
+	desc:"Valorant: Beyond the Crosshair is an interactive guide designed to help players of all skill levels improve their gameplay. It offers detailed insights into agents, maps, weapons, and strategies — everything a player needs to understand the game in depth.",
+	url:"https://nikkodizon.github.io/WDProjLithiumDIZONVIBAL/",
+	icon:"",
+	by:"Dizon&Vibal",
+	stat: false // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
+}
 
-		
-	
 function dispProj(){
 	var x;
 	var genNum=[];
