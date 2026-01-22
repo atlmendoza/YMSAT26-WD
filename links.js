@@ -296,15 +296,7 @@ links.push({
 });
 
 
-links.push({
-    section: "9Rb",
-    title: "Stardust Performers",
-    desc: "A 10th-anniversary tribute and guide for the K-pop group TWICE, featuring member profiles, discography, and an overview of their artistic journey.",
-    url: "https://gabriellepascual.github.io/WDProjRubidiumPascualTagle/",
-    icon: "rb2127.png",
-    by: "PASCUALTAGLE",
-    stat: true
-});
+
 
 links.push({
     section: "9Rb",
