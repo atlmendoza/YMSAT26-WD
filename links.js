@@ -136,45 +136,7 @@ links.push({
         stat: false // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
     });
 
-    links.push({
-        section: "9Sr",
-        title: "ChiikArcade",
-        desc: "A cute, Chiikawa-themed mini-game and resource hub that brings a colorful arcade experience directly to the web browser.",
-        url: "https://katsuaisu.github.io/WDProjStrontiumDulaySaquing/",
-        icon: "sr0622.png",
-        by: "DulaySaquing",
-        stat: true
-    });
- 
-    links.push({
-        section: "9Sr",
-        title: "Azra",
-        desc: "Azra is a website perfect for freshies, laterals, and outsiders who want to know where they can find tambayan places to hang out, eat, and relax around Pisay!",
-        url: "https://amberbuico.github.io/WDProjStrontiumBuicoMagat/",
-        icon: "sr0414.png",
-        by: "BuicoMagat",
-        stat: true
-    });
 
-    links.push({
-        section: "9Sr",
-        title: "Keone's Project Portfolio",
-        desc: "Our website is about Real Madrid, specifically about its history, players, statistics, and more.",
-        url: "https://htmlpreview.github.io/?https://raw.githubusercontent.com/Keone245/Project/refs/heads/main/aboutme.html",
-        icon: "sr0219.png",
-        by: "BabaranRobles",
-        stat: true
-    });
-
-    links.push({
-        section: "9Sr",
-        title: "Carlos & Fernandez Portfolio",
-        desc: "Little Chef's Corner is an online cookbook made for aspiring chefs, a website filled with mouth-watering recipes and fun activities that customers can enjoy!",
-        url: "https://bettinafernandez.github.io/WDProjStrontiumCarlosFernandez/",
-        icon: "ynabet.png",
-        by: "CarlosFernandez",
-        stat: true
-    });
 
     links.push({
         section:"9Na",
@@ -196,25 +158,7 @@ links.push({
         stat: true
     });
 
-    links.push({
-        section:"9Na",
-        title:"GoalGarden",
-        desc:"An interactive goal-tracking application that visualizes your personal progress as a growing garden, encouraging consistent habit-building.",
-        url:"https://dja0616.github.io/WDProjSodiumAsisAsperin/",
-        icon:"na0405.png",
-        by:"ASPERINASIS",
-        stat: true
-    });
 
-    links.push({
-        section:"9Na",
-        title:"CineVerse",
-        desc:"An immersive cinematic universe guide where film enthusiasts can explore movie reviews, trailers, and curated watchlists.",
-        url:"https://0kimchi.github.io/Me-and-Sabs-Project/",
-        icon:"sodium0315.png",
-        by:"ALPASANGUEVARRA",
-        stat: true
-    });
 
     links.push({
         section:"9Na",
@@ -247,15 +191,6 @@ links.push({
     });
 
 
-    links.push({
-        section:"9Rb",
-        title:"StudyMate: Your Personal Study Companion",
-        desc:"An interactive productivity dashboard featuring a personalized study environment and profile management system to assist student workflow.",
-        url:"https://zirjishere.github.io/WDProjRubidiumMendaroMeneses/",
-        icon:"zirjsasha.png",
-        by:"MENDAROMENESES",
-        stat: true
-    });
 
     links.push({
         section:"9Rb",
@@ -277,15 +212,7 @@ links.push({
         stat: true
     });
 
-    links.push({
-        section:"9Rb",
-        title:"PeriodiCastle",
-        desc:"A Harry Potter-themed 'Great Hall of Elements' that sorts chemical elements into wizarding houses (Blocks S, P, D, F) to teach periodic trends.",
-        url:"https://avieszha.github.io/WDProjRubidiumLustreReyes/index.html",
-        icon:"avienzo.png",
-        by:"LUSTREREYES",
-        stat: true
-    });
+
 
     links.push({
         section:"9Rb",
@@ -307,16 +234,6 @@ links.push({
         stat: true
     });
 
-
-    links.push({
-        section:"9Rb",
-        title:"MiCayke Decorating!",
-        desc:"A creative and interactive arcade-themed experience where users can virtually design and decorate their own custom cakes.",
-        url:"https://micaydcr.github.io/WDProjRubidiumPagdilaoRubico/",
-        icon:"rb2025.png",
-        by:"PAGDILAORUBICO",
-        stat: true
-    });
 
 
 
@@ -350,35 +267,7 @@ links.push({
     stat: true
 });
 
-links.push({
-    section: "9Na",
-    title: "Survival Guide: Student Edition",
-    desc: "A essential toolkit designed for students, offering survival tips, academic resources, and practical advice to navigate school life successfully.",
-    url: "https://hannahchanb29.github.io/WDProjSodiumChanGuiang/",
-    icon: "na1216.png",
-    by: "CHANGUIANG",
-    stat: true
-});
 
-links.push({
-    section: "9Na",
-    title: "Swiftie Verse",
-    desc: "A comprehensive fan portal dedicated to Taylor Swift, featuring discography deep-dives, news, and a community space for fans.",
-    url: "https://jeishawshaw.github.io/WDProjSodiumRefuerzoRugayan_/",
-    icon: "francesjeisha.png",
-    by: "RUGAYANREFUERZO",
-    stat: true
-});
-
-links.push({
-    section: "9Na",
-    title: "GoalGarden",
-    desc: "An interactive goal-tracking application that visualizes your personal progress as a growing garden, encouraging consistent habit-building.",
-    url: "https://dja0616.github.io/WDProjSodiumAsisAsperin/",
-    icon: "na0405.png",
-    by: "ASPERINASIS",
-    stat: true
-});
 
 
 
@@ -392,36 +281,8 @@ links.push({
     stat: true
 });
 
-links.push({
-    section: "9Na",
-    title: "Gameboy Pedia",
-    desc: "A nostalgic encyclopedia for the Gameboy era, cataloging handheld console history, game reviews, and retro gaming culture.",
-    url: "https://xionne-haha.github.io/CS3_2ndQtrPortfolio/CSQuarter2Project/",
-    icon: "xionneliam.png",
-    by: "BARTOLOMEJACOB",
-    stat: true
-});
 
 
-links.push({
-    section: "9Na",
-    title: "OnceVerse | TWICE Fan Hub",
-    desc: "The ultimate digital hub for ONCEs, featuring detailed member profiles, music videos, and a dedicated timeline of TWICE's career.",
-    url: "https://klia0417.github.io/WDProjSodiumAlejandroJarme/",
-    icon: "na0219.png",
-    by: "ALEJANDROJARME",
-    stat: true
-});
-
-links.push({
-    section: "9Na",
-    title: "Gardenara: Plant and relax with your very own garden",
-    desc: "A relaxation and gardening simulator that allows users to virtually cultivate plants while enjoying a peaceful, meditative atmosphere.",
-    url: "https://jesh-a.github.io/WDProjNaAyuyao-Ong/",
-    icon: "na0625.jpg",
-    by: "AYUYAOONG",
-    stat: true
-});
 
 
 links.push({
@@ -434,15 +295,6 @@ links.push({
     stat: true
 });
 
-links.push({
-    section: "9Rb",
-    title: "Japanease: A Beginner's Guide to Japan",
-    desc: "A vibrant travel guide featuring itineraries, budget planners, food guides, and real-time clock comparisons for tourists visiting Japan.",
-    url: "https://shekinahmarcel.github.io/WDProjRubidiumEspinozaPuguon/final%20proj/A_home.html",
-    icon: "rb0822.png",
-    by: "PUGUONESPINOZA",
-    stat: true
-});
 
 links.push({
     section: "9Rb",
@@ -464,25 +316,8 @@ links.push({
     stat: true
 });
 
-links.push({
-    section: "9Rb",
-    title: "Meta Royale",
-    desc: "A strategy hub for Clash Royale players featuring deck archetypes, meta card analysis, and arena progression tips for all skill levels.",
-    url: "https://banonok11.github.io/WDProjRubidiumOcampoViray/",
-    icon: "ocampoviray.png",
-    by: "OCAMPOVIRAY",
-    stat: true
-});
 
-links.push({
-    section: "9Rb",
-    title: "Discover East and West Coast Rap Music",
-    desc: "An educational retrospective on 90s rap culture, exploring the iconic East Coast vs. West Coast rivalry and its lasting impact on the genre.",
-    url: "https://sammr123a.github.io/WDProjRubidiumAustriaBansil/",
-    icon: "austriabansil.png",
-    by: "AUSTRIABANSIL",
-    stat: true
-});
+
 
 
 links.push({
