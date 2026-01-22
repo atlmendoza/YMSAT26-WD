@@ -29,27 +29,9 @@ links.push({
     stat: false
 });
 
-<<<<<<< HEAD
-links.push({
-    section: "9Be",
-    title: "Pamana Adventures",
-    desc: "Pamana Adventures is an interactive travel website where users create a personalized profile, explore destinations tailored to their interests and budget, and discover curated meaningful adventures across the Philippines made just for them.",
-    url: "https://rafaelayatco.github.io/WDProjBeGaborniYatco/",
-    icon: "",
-    by: "",
-    stat: false
-});
 
-links.push({
-    section: "9be",
-    title: "Icons of Ghibli",
-    desc: "Whispers of Ghibli is a very emotional and sincere trip to the dream-like realm of the Studio Ghibli—where art, imagination, and feelings come together to create storytelling that will never be forgotten.",
-    url: "https://aravilalado.github.io/WDProjBeMacatangayVillados/public/homepage.html",
-    icon: "be1929.png",
-    by: "",
-    stat: false
-});
-=======
+
+
     links.push({
         section: "9Be",
         title: "Pamana Adventures",
@@ -69,7 +51,6 @@ links.push({
         by: "Macatangay&Villados",
         stat: false
     });
->>>>>>> 3b2558086c20804f5df7fb859dc8b2db166b74fa
 
 links.push({
     section: "9Cs",
@@ -131,19 +112,6 @@ links.push({
     stat: true  // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
 });
 
-<<<<<<< HEAD
-links.push({
-    section: "9Li",
-    title: "Valorant: Beyond the Crosshair",
-    desc: "Valorant: Beyond the Crosshair is an interactive guide designed to help players of all skill levels improve their gameplay. It offers detailed insights into agents, maps, weapons, and strategies — everything a player needs to understand the game in depth.",
-    url: "https://nikkodizon.github.io/WDProjLithiumDIZONVIBAL/",
-    icon: "",
-    by: "Dizon&Vibal",
-    stat: false // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
-});
-
-
-
 
 
 links.push({
@@ -158,7 +126,6 @@ links.push({
 
 
 
-=======
     links.push({
         section: "9Li",
         title: "Valorant: Beyond the Crosshair",
@@ -350,7 +317,6 @@ links.push({
         by:"PAGDILAORUBICO",
         stat: true
     });
->>>>>>> 3b2558086c20804f5df7fb859dc8b2db166b74fa
 
 
 
