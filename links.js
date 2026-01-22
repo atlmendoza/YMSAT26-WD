@@ -34,8 +34,8 @@ links[1]={
         title: "Pamana Adventures",
         desc: "Pamana Adventures is an interactive travel website where users create a personalized profile, explore destinations tailored to their interests and budget, and discover curated meaningful adventures across the Philippines made just for them.",
         url: "https://rafaelayatco.github.io/WDProjBeGaborniYatco/",
-        icon: "",
-        by: "",
+        icon: "be1230.png",
+        by: "gaborni&yatco",
         stat: false
     });
 
@@ -45,7 +45,7 @@ links[1]={
         desc: "Whispers of Ghibli is a very emotional and sincere trip to the dream-like realm of the Studio Ghibli—where art, imagination, and feelings come together to create storytelling that will never be forgotten.",
         url: "https://aravilalado.github.io/WDProjBeMacatangayVillados/public/homepage.html",
         icon: "be1929.png",
-        by: "",
+        by: "Macatangay&Villados",
         stat: false
     });
 
@@ -114,14 +114,10 @@ links[1]={
         title: "Valorant: Beyond the Crosshair",
         desc: "Valorant: Beyond the Crosshair is an interactive guide designed to help players of all skill levels improve their gameplay. It offers detailed insights into agents, maps, weapons, and strategies — everything a player needs to understand the game in depth.",
         url: "https://nikkodizon.github.io/WDProjLithiumDIZONVIBAL/",
-        icon: "",
+        icon: "valorant.png",
         by: "Dizon&Vibal",
         stat: false // to indicate acceptance - true (for displaying) or false (means conditional after some edits) 
     });
-
-
-
- 
 
     links.push({
         section: "9Sr",
@@ -132,11 +128,6 @@ links[1]={
         by: "DulaySaquing",
         stat: true
     });
-
-
-
-
-
  
     links.push({
         section: "9Sr",
@@ -198,8 +189,6 @@ links[1]={
         stat: true
     });
 
-
-
     links.push({
         section:"9Na",
         title:"CineVerse",
@@ -219,7 +208,6 @@ links[1]={
         by:"BARTOLOMEJACOB",
         stat: true
     });
-
 
     links.push({
         section:"9Na",
