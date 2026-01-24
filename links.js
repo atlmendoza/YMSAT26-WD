@@ -44,7 +44,7 @@ links.push({
 
     links.push({
         section: "9be",
-        title: "Icons of Ghibli",
+        title: "Whispers of Ghibli",
         desc: "Whispers of Ghibli is a very emotional and sincere trip to the dream-like realm of the Studio Ghibli—where art, imagination, and feelings come together to create storytelling that will never be forgotten.",
         url: "https://aravilalado.github.io/WDProjBeMacatangayVillados/public/homepage.html",
         icon: "be1929.png",
