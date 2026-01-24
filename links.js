@@ -84,8 +84,8 @@ links.push({
 
 links.push({
     section: "9Cs",
-    title: "Clemmy OS Login",
-    desc: "",
+    title: "Clemmy's Corner",
+    desc: " I didn’t buy this laptop. I found it abandoned, humming, its pink logo glowing even without power. Inside wasn’t an empty system, but Clemmy’s Corner: files, shrines, and archives I never created. The content updates on its own, the cursor moves without input, and sometimes the screen reflects someone who isn’t me. Something is living in the circuitry. Do not delete the shrines. Do not open the .exe files. She is listening.",
     url: "https://alena-harriett.github.io/WDProjCesiumMembradoReyes/",
     icon: "cs2128.webp",
     by: "Membrado&Reyes",
